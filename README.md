@@ -10,5 +10,5 @@
 
 
 ## Connect with Me
-[![linkedin](https://img.shields.io/badge/linkedin-2363C3?style=for-the-badge&labelColor=ffffff)](www.linkedin.com/in/jacqueline-jackie-chan)
+[![linkedin](https://img.shields.io/badge/linkedin-2363C3?style=for-the-badge&labelColor=ffffff)](https://www.linkedin.com/in/jacqueline-jackie-chan)
 [![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:jacquelinechan118@gmail.com?subject=Reaching%20out%20to%20connect)
