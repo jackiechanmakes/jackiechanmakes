@@ -1,5 +1,5 @@
 ## Hi, I'm Jackie Chan! 🙂
-[![Portfolio](https://img.shields.io/badge/🌟%20my_portfolio-b62e44?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://jackiechanmakes.github.io/portfolio/)
+[![portfolio](https://img.shields.io/badge/🌟%20my_portfolio-b62e44?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://jackiechanmakes.github.io/portfolio/)
 
 ## About Me 
 - I'm currently pursuing a Master's degree in Computer Science at Georgia Tech, specializing in Computing Systems with a focus on Machine Learning.
