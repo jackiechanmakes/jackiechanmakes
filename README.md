@@ -4,7 +4,7 @@
 ## About Me 
 - I'm currently pursuing a Master's degree in Computer Science at Georgia Tech, specializing in Computing Systems with a focus on Machine Learning.
 - I graduated with honors from Caltech with a Bachelor of Science in Chemical Engineering.
-- I’m a software developer passionate about leveraging AI and scientific computing to address real-world challenges, while exploring low-level systems that drive high-performance computing. To deepen my expertise, I’m currently building a Lisp interpreter in C.
+- I’m a software developer passionate about leveraging AI and scientific computing to address real-world challenges, while also exploring low-level systems that drive high-performance computing. To deepen my expertise, I’m currently building a Lisp interpreter in C.
 
 ## Tech Stack
 - **Programming Languages:** Python, C, C++, Java, SQL, JavaScript, HTML/CSS
